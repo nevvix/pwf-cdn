@@ -1,4 +1,4 @@
-# Highlightjs in PWF
+# Highlight.js in PWF
 
 highlight.pack.js contains:
 
