@@ -23,7 +23,12 @@ Custom CDN for assets used in PHP Website Framework.
 Edit local style.css
 
 ```CSS
-h1, h2, h3, h4 {
+h1 {
     font-family: "Neue Haas Grotesk ", "Helvetica Neue", Arial, sans-serif;
     font-weight: 700;
+}
+h2, h3, h4 {
+    font-family: "Neue Haas Grotesk ", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 500;
+}
 ```
