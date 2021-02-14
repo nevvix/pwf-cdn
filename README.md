@@ -12,3 +12,18 @@ Custom CDN for assets used in PHP Website Framework.
 <script src="https://cdn.jsdelivr.net/gh/nevvix/pwf-cdn/highlightjs/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 ```
+
+## NeueHassDisplay fonts
+
+```HTML
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nevvix/pwf-cdn/NeueHaasDisplay-Mediu/style.css" media="screen">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nevvix/pwf-cdn/NeueHaasDisplay-Bold/style.css" media="screen">
+```
+
+Edit local style.css
+
+```CSS
+h1, h2, h3, h4 {
+    font-family: "Neue Haas Grotesk ", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 700;
+```
