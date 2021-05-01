@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Perfect DOS VGA 437';
+    font-style: normal;
+    font-weight: normal;
+    src: url('Perfect_DOS_VGA_437.eot?') format('eot'),
+         url('Perfect_DOS_VGA_437.woff') format('woff'),
+         url('Perfect_DOS_VGA_437.ttf') format('truetype'),
+         url('Perfect_DOS_VGA_437.svg#PerfectDOSVGA437') format('svg');
+}
